@@ -1,0 +1,23 @@
+  
+h1{
+    border-style: dashed;
+    border-width: 5px;
+    border-color: blue;
+  
+}
+p{
+    color: darkred;
+}
+.class1 #image{
+    background-image: url(cssimages/carlogo.png);
+    background-repeat: no-repeat;
+    background-position: right; 
+    background-attachment: scroll;
+}
+.class1 p{
+    color: red;
+    
+}
+.class1 #pfirst{
+ background-color: darkgray;
+}
